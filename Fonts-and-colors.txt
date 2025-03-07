@@ -1,0 +1,8 @@
+Font style links:-
+https://fonts.google.com/specimen/Cinzel
+https://fonts.google.com/specimen/MedievalSharp
+
+Colors:-
+#D5B577
+#B9540C
+#331C0E
